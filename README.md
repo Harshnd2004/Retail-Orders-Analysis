@@ -91,3 +91,4 @@ Built interactive dashboards featuring:
 ---
 
 ## Screenshot
+![Preview](https://github.com/Harshnd2004/Retail-Orders-Analysis/blob/main/Retail%20Orders%20Analysis%20Dashboard.PNG)
